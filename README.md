@@ -20,7 +20,7 @@ pip install -r requirements.txt
 python main.py
 ```
 
-- Loads `data/sample_ohlc_long.csv`
+- Loads `data/OHLC.csv`
 - Runs mean reversion strategy (lookback=20, entry\_z=1.5)
 - Shows *equity curve* and *daily PnL chart*
 - Saves results to:
