@@ -7,7 +7,7 @@ A Python-based research framework for backtesting intraday **mean-reversion trad
 ## ⚙️ Installation
 
 ```bash
-git clone <repo-url>
+git clone https://github.com/muditvir/mean_reversion_backtest.git
 cd mean_reversion_backtest
 pip install -r requirements.txt
 ```
