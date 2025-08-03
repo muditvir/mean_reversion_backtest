@@ -4,6 +4,14 @@ A Python-based research framework for backtesting intraday **mean-reversion trad
 
 ---
 
+## 🌐 Live Demo
+
+[![Streamlit App](https://img.shields.io/badge/Launch%20Streamlit%20App-orange?logo=streamlit&logoColor=white)](https://mean-reversion-backtest.streamlit.app/)
+> 🔎 Interactive browser-based dashboard for real-time analysis <br>
+> [https://mean-reversion-backtest.streamlit.app/](https://mean-reversion-backtest.streamlit.app/)
+
+---
+
 ## ⚙️ Installation
 
 ```bash
